@@ -1,15 +1,7 @@
-layout_spectrum: 1
-favicon: null
 name: yodacom
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6458685
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: YodaCom
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.7149637036491185
-  saturation: 0.461712081450969
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0.7149637036491185
   lightness: 0.732241707155481
+  saturation: 0.461712081450969
   rhythmicContrast: 0.6603751440998167
-typography_spectrum: 0.6458685
+purpose: []
